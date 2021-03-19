@@ -17,5 +17,5 @@ $ git commit -av
 $ git push origin master
 ```
 
-From there, I can do a `helm repo add tscharts
+From there, I can do a `helm repo add lilos
 https://lilos.github.io/tscharts`
