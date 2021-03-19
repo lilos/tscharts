@@ -18,4 +18,4 @@ $ git push origin master
 ```
 
 From there, I can do a `helm repo add tscharts
-https://technosophos.github.com/tscharts`
+https://lilos.github.io/tscharts`
